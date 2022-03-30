@@ -1,0 +1,19 @@
+.wrapper p{
+    text-align: center;
+}
+.wrapper h2{
+    text-align: center;
+}
+.container{
+    padding-left: 30%;
+    padding-top: 10% !important;
+    align-items: center !important;
+}
+.wrapper{
+    border-radius: 10%;
+    border-color: blanchedalmond;
+    background-color: rgb(168, 236, 225);
+}
+.wrapper btn{
+    align-items: center !important;
+}
